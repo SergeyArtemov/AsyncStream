@@ -1,0 +1,16 @@
+C:\ProjectsCLR\AsyncStream\bin\Debug\net5.0\AsyncStream.exe
+C:\ProjectsCLR\AsyncStream\bin\Debug\net5.0\AsyncStream.deps.json
+C:\ProjectsCLR\AsyncStream\bin\Debug\net5.0\AsyncStream.runtimeconfig.json
+C:\ProjectsCLR\AsyncStream\bin\Debug\net5.0\AsyncStream.runtimeconfig.dev.json
+C:\ProjectsCLR\AsyncStream\bin\Debug\net5.0\AsyncStream.dll
+C:\ProjectsCLR\AsyncStream\bin\Debug\net5.0\ref\AsyncStream.dll
+C:\ProjectsCLR\AsyncStream\bin\Debug\net5.0\AsyncStream.pdb
+C:\ProjectsCLR\AsyncStream\obj\Debug\net5.0\AsyncStream.csprojAssemblyReference.cache
+C:\ProjectsCLR\AsyncStream\obj\Debug\net5.0\AsyncStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsCLR\AsyncStream\obj\Debug\net5.0\AsyncStream.AssemblyInfoInputs.cache
+C:\ProjectsCLR\AsyncStream\obj\Debug\net5.0\AsyncStream.AssemblyInfo.cs
+C:\ProjectsCLR\AsyncStream\obj\Debug\net5.0\AsyncStream.csproj.CoreCompileInputs.cache
+C:\ProjectsCLR\AsyncStream\obj\Debug\net5.0\AsyncStream.dll
+C:\ProjectsCLR\AsyncStream\obj\Debug\net5.0\ref\AsyncStream.dll
+C:\ProjectsCLR\AsyncStream\obj\Debug\net5.0\AsyncStream.pdb
+C:\ProjectsCLR\AsyncStream\obj\Debug\net5.0\AsyncStream.genruntimeconfig.cache
